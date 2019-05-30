@@ -1,5 +1,5 @@
 # RASA-Chatbot-UI
-A Chat widget easy to connect to RASA core bot to Custom Channel.
+A Chat widget easy to connect to RASA bot to Custom Channel(a webpage).
 
 Added Support for 
 - Buttons
