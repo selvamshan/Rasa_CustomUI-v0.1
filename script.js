@@ -188,7 +188,7 @@ $(document).ready(function () {
 	}
 
 
-	// on click of suggestions get value and send to API.AI
+	// on click of suggestions get value and send to RASA
 	$(document).on("click", ".suggestion span", function () {
 		var text = this.innerText;
 		setUserResponse(text);
